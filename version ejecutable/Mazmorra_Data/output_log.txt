@@ -1,0 +1,30 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.201 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\ACADEMICO\UNIVERSIDAD\Semestre 3\COMPUTACION GRAFICA\Proyecto\Mazmorra_1310263_1310284\Mazmorra_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.821230 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 1.854768 ms (FindLiveObjects: 0.036395 ms CreateObjectMapping: 0.024730 ms MarkObjects: 0.153047 ms  DeleteObjects: 0.047594 ms)
+
